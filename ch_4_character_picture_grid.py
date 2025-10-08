@@ -1,4 +1,4 @@
-# character_picture_grid.py
+# ch_4_character_picture_grid.py
 # This program rotates a grid 90 degrees clockwise and prints the result.
 
 # def turn_grid_90_degrees(arr):

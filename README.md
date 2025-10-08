@@ -20,12 +20,12 @@ The projects are designed to help beginners learn Python by applying concepts fr
 
 - **Focus:** Working with Python lists, including indexing, slicing, list methods, and nested lists.
 - **Practice Projects:**
-  1. **Comma Code**
-     - **Script:** [`ch_4_comma_code.py`](ch_4_comma_code.py)
-     - **Description:** Formats a list of items into a comma-separated string with proper "and" placement.
-  2. **Character Picture Grid**
-     - **Script:** [`ch_4_character_picture_grid.py`](ch_4_character_picture_grid.py)
-     - **Description:** Creates and manipulates a 2D character grid, demonstrating how to structure and access nested lists.
+1. **Comma Code**
+   - **Script:** [`ch_4_comma_code.py`](ch_4_comma_code.py)
+   - **Description:** Formats a list of items into a comma-separated string with proper "and" placement.
+2. **Character Picture Grid**
+   - **Script:** [`ch_4_character_picture_grid.py`](ch_4_character_picture_grid.py)
+   - **Description:** Creates and manipulates a 2D character grid, demonstrating how to structure and access nested lists.
 
 ---
 

@@ -33,7 +33,7 @@ The projects are designed to help beginners learn Python by applying concepts fr
 
 - **Focus:** Dictionaries, counting items, and inventory management in Python.
 - **Practice Project:** Inventory Management for a Fantasy Game
-- **Script:** [`ch_5_fantasy_game_inventory.py`](ch5_fantasy_game_inventory.py)
+- **Script:** [`ch_5_fantasy_game_inventory.py`](ch_5_fantasy_game_inventory.py)
 - **Description:** Implements a system to manage a game inventory, including adding items from loot and displaying inventory totals.
 
 ### Chapter 6: Tables and Password Management

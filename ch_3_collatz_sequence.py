@@ -1,4 +1,4 @@
-# collatz_sequence.py
+# ch_3_collatz_sequence.py
 # This program generates the Collatz sequence for a given positive integer.
 
 

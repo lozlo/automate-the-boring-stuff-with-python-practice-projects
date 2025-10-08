@@ -33,6 +33,17 @@ The projects are designed to help beginners learn Python by applying concepts fr
 
 - **Focus:** Dictionaries, counting items, and inventory management in Python.
 - **Practice Project:** Inventory Management for a Fantasy Game
-- **Script:** [`ch5_fantasy_game_inventory.py`](ch5_fantasy_game_inventory.py)
+- **Script:** [`ch_5_fantasy_game_inventory.py`](ch5_fantasy_game_inventory.py)
 - **Description:** Implements a system to manage a game inventory, including adding items from loot and displaying inventory totals.
 
+### Chapter 6: Tables and Password Management
+
+- **Focus:** Working with more complex data structures, string formatting, and practical automation tasks.
+- **Practice Projects:**
+1. **Table Printer**
+   - **Script:** [`ch_6_table_printer.py`](ch_6_table_printer.py)
+   - **Description:** Prints a 2D list of data as a formatted table. Aligns columns properly and handles transposed printing, demonstrating string formatting and iteration over nested lists.
+
+2. **Password Locker**
+   - **Script:** [`ch_6_password_locker.py`](ch_6_password_locker.py)
+   - **Description:** A simple password manager that stores passwords in a dictionary. Allows copying passwords to the clipboard and adding new accounts interactively, demonstrating the use of dictionaries, user input, and third-party modules like `pyperclip`.
